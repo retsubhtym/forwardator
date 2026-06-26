@@ -1,0 +1,10 @@
+# Go
+/bin/
+*.test
+*.out
+coverage.txt
+
+# Local build/cache
+forwardator
+.gocache/
+.DS_Store
